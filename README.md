@@ -3,7 +3,6 @@
 ## 🙋‍♂️ About Me
 | 🌱 | 🌴 |
 | ------------- | ------------- |
-| Intro | Full-time student with a passion for coding and our Earth 🌎 |
 | University | Georgia Institute of Technology 🐝 |
 | Major | Computer Science 💻 |
 | Minors | Biology, Industrial Design |
