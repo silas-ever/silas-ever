@@ -1,4 +1,4 @@
-# Hi, I'm Silas 👋
+# Hi, I'm Silas
  
 ## 🙋‍♂️ About Me
 | 🌱 | 🌴 |
