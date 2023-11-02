@@ -6,7 +6,7 @@
 | University | Georgia Institute of Technology 🐝 |
 | Major | Computer Science 💻 |
 | Minors | Biology, Industrial Design |
-| Interests | UI/UX, Frontend Development, Data Science, Machine Learning |
+| Interests | UI/UX, Frontend Development, Databases |
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/silas-ever) <br />
