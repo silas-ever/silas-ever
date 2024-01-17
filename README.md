@@ -1,6 +1,6 @@
 ### Hi, I'm Silas 👋
 
-I'm a 22-year old full-stack developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
+I'm a 22-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
 ## 📦 Toolbox
 
