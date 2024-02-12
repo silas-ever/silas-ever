@@ -1,24 +1,34 @@
-### Hi, I'm Silas 👋
+<h2 align="center">👋 Hey! I'm Silas.</h2>
+<p align="center">
+  <a href="https://silas-ever.github.io/">Website</a> •
+  <a href="https://linkedin.com/in/silas-ever/">LinkedIn</a>
+</p>
+
 
 I'm a 22-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
-## 📦 Toolbox
+I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who studied
+- 💻 **Computer Science** for Artificial Intelligence & Databases
+- 🧬 **Biology** for Health Technology
+- 🎨 **Industrial Design** for UI/UX
 
-**Frontend Development:** `React` `Angular.js` `HTML, CSS`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+-------
+<h3 align="center">📦 Toolbox</h3>
 
-**Backend Development:** `Ruby on Rails` `Node.js` `PostgreSQL` `GraphQL` 
+**Programming**: `Python` `Java` `Ruby` `C/C++` `JavaScript` `HTML` `CSS`
+
+**Frameworks**: `Rails` `Angular` `React`
+
+**Databases:** `MySQL` `PostgreSQL` `GraphQL` `MongoDB`
 
 **Testing:** `Postman` `TestRail`
 
-**Others:** `Docker` `Scrum` `Agile` `Confluence` `Jira`
- 
-## 🙋‍♂️ About Me
+**Others:** `Git` `Docker` `Scrum` `Agile` `Confluence` `Jira`
 
-- I graduated from the Georgia Institute of Technology 🐝
-- Majored in Computer Science, Minored in Biology and Industrial Design (UI/UX)
-- In my free time, I love sustainability and making things - I do gardening, rock climbing, bread baking, and building PCs!
+-------
+<h3 align="center">🍎 About Me</h3>
 
-## 📫 Contact
-For a quick response, feel free to connect with me on [LinkedIn](https://linkedin.com/in/silas-ever).
+- ⚡ Former Full-Stack Software Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
+- 📱 Former Network Support Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
+- 🌎 Lover of all things Earth and sustainability
+- 📬 Reach out to me @ [`ever@gatech.edu`](mailto:ever@gatech.edu) to chat!
