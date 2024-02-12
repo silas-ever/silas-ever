@@ -32,3 +32,11 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who stu
 - 📱 Former Network Support Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 🌎 Lover of all things Earth and sustainability
 - 📬 Reach out to me @ [`ever@gatech.edu`](mailto:ever@gatech.edu) to chat!
+
+<!-- Additional Info
+-------
+<h3 align="center">📊 Statistics</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silas-ever&show_icons=true&locale=en&layout=compact" alt="silas-ever" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=silas-ever&" alt="silas-ever" /></p>
+-->
