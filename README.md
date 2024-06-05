@@ -1,11 +1,10 @@
 <h2 align="center">👋 Hey! I'm Silas.</h2>
 <p align="center">
-  <a href="https://silas-ever.github.io/">Website</a> •
   <a href="https://linkedin.com/in/silas-ever/">LinkedIn</a>
 </p>
 
 
-I'm a 22-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
+I'm a 23-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
 I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who studied
 - 💻 **Computer Science** for Artificial Intelligence & Databases
@@ -31,7 +30,7 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who stu
 - ⚡ Former Full-Stack Software Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 📱 Former Network Support Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 🌎 Lover of all things Earth and sustainability
-- 📬 Reach out to me @ [`ever@gatech.edu`](mailto:ever@gatech.edu) to chat!
+- 📬 Reach out to me @ [`silas.c.ever@gmail.com`](mailto:silas.c.ever@gmail.com) to chat!
 
 <!-- Additional Info
 -------
