@@ -26,7 +26,8 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studyin
 
 -------
 <h3 align="center">🍎 About Me</h3>
-- 💻 Software Engineer at [Cisco](https://cisco.com)
+
+- 💻 Software Engineer at [Cisco](https://cisco.com/)
 - ⚡ Former Full-Stack Software Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 📱 Former Network Support Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 🌎 Lover of all things Earth and sustainability
