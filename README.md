@@ -6,7 +6,7 @@
 
 I'm a 23-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
-I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who studied
+I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 - 💻 **Computer Science** for Artificial Intelligence & Databases
 - 🧬 **Biology** for Health Technology
 - 🎨 **Industrial Design** for UI/UX
@@ -26,7 +26,7 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 who stu
 
 -------
 <h3 align="center">🍎 About Me</h3>
-
+- 💻 Software Engineer at [Cisco](https://cisco.com)
 - ⚡ Former Full-Stack Software Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 📱 Former Network Support Engineering Intern at [Cisco Meraki](https://meraki.cisco.com/)
 - 🌎 Lover of all things Earth and sustainability
