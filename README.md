@@ -7,7 +7,7 @@
 I'm a 23-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
 I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studying
-- 💻 **Computer Science** for Artificial Intelligence & Databases
+- 💻 **Computer Science** concentrating in Artificial Intelligence & Databases
 - 🧬 **Biology** for Health Technology
 - 🎨 **Industrial Design** for UI/UX
 
