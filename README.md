@@ -20,7 +20,7 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studyin
 
 **Databases:** `MySQL` `PostgreSQL` `GraphQL` `MongoDB`
 
-**Testing:** `Postman` `TestRail`
+**Testing:** `Postman` `TestRail` `JUnit`
 
 **Others:** `Git` `Docker` `Scrum` `Agile` `Confluence` `Jira`
 
