@@ -6,7 +6,7 @@
 
 I'm a 23-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
-I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studying
+I'm a 2023 graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 - 💻 **Computer Science** concentrating in Artificial Intelligence & Databases
 - 🧬 **Biology** for Health Technology
 - 🎨 **Industrial Design** for UI/UX
@@ -22,7 +22,7 @@ I'm a recent graduate 🎓 from the Georgia Institute of Technology 🐝 studyin
 
 **Testing:** `Postman` `TestRail` `JUnit`
 
-**Others:** `Git` `Docker` `Scrum` `Agile` `Confluence` `Jira`
+**Others:** `Git` `Docker` `Figma` `Scrum` `Agile` `Confluence` `Jira` `REST APIs`
 
 -------
 <h3 align="center">🍎 About Me</h3>
