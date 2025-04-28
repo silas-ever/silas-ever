@@ -4,7 +4,7 @@
 </p>
 
 
-I'm a 23-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
+I'm a 24-year old  developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
 I'm a 2023 graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 - 💻 **Computer Science** concentrating in Artificial Intelligence & Databases
