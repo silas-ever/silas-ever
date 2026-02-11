@@ -18,11 +18,11 @@ I'm a graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 
 **Frameworks**: `Rails` `Angular` `React`
 
-**Databases:** `MySQL` `PostgreSQL` `GraphQL` `MongoDB`
+**Databases:** `MySQL` `SQLite` `PostgreSQL` `GraphQL` `MongoDB`
 
 **Testing:** `Postman` `TestRail` `JUnit`
 
-**Others:** `Git` `Docker` `Figma` `Scrum` `Agile` `Confluence` `Jira` `REST APIs`
+**Others:** `Git` `Docker` `Figma` `Scrum` `Agile` `REST APIs`
 
 -------
 <h3 align="center">🍎 About Me</h3>
