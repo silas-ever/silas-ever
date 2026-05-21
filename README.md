@@ -1,8 +1,9 @@
 <h2 align="center">👋 Hi! I'm Silas.</h2>
+<!-- 
 <p align="center">
   <a href="https://linkedin.com/in/silas-ever/">LinkedIn</a>
 </p>
-
+-->
 
 I'm a full-stack software developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
 
@@ -22,6 +23,7 @@ I'm a graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 
 **Others:** `Git` `Docker` `Figma` `Scrum` `Agile` `REST APIs`
 
+<!-- 
 -------
 <h3 align="center">🍎 About Me</h3>
 
@@ -31,7 +33,7 @@ I'm a graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 - 🌎 Lover of all things Earth and sustainability
 - 📬 Reach out to me @ [`silas.c.ever@gmail.com`](mailto:silas.c.ever@gmail.com) to chat!
 
-<!-- Additional Info
+Additional Info
 -------
 <h3 align="center">📊 Statistics</h3>
 
