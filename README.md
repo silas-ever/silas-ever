@@ -1,11 +1,11 @@
-<h2 align="center">👋 Hi! I'm Silas.</h2>
+<h2 align="center">👋 Hi there!</h2>
 <!-- 
 <p align="center">
   <a href="https://linkedin.com/in/silas-ever/">LinkedIn</a>
 </p>
 -->
 
-I'm a full-stack software developer based in Atlanta, and I'm passionate about personalizing digital experiences for everyone.
+I'm Silas, a full-stack software developer based in Atlanta. 
 
 I'm a graduate 🎓 from the Georgia Institute of Technology 🐝 studying
 - 💻 **Computer Science** concentrating in Artificial Intelligence & Databases
